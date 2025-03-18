@@ -63,3 +63,5 @@
    Если какие-либо из этих библиотек отсутствуют, установите их с помощью `pip`:
    ```bash
    pip install networkx matplotlib pandas tabulate
+
+![graph-2](https://github.com/user-attachments/assets/a9a6f177-9704-40b1-b9dc-0b92ed902f35)
